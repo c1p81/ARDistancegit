@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/menu_options.xml.flat",
+        "source": "/Users/lucainnocenti/.gradle/caches/transforms-1/files-1.1/aRBaseLib-debug.aar/5db565d8a7e2d8d2a3e97be3ef9161e7/res/menu/options.xml"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/drawable-xhdpi_settings.png.flat",
+        "source": "/Users/lucainnocenti/.gradle/caches/transforms-1/files-1.1/aRBaseLib-debug.aar/5db565d8a7e2d8d2a3e97be3ef9161e7/res/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/lucainnocenti/.gradle/caches/transforms-1/files-1.1/aRBaseLib-debug.aar/5db565d8a7e2d8d2a3e97be3ef9161e7/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/drawable-hdpi_settings.png.flat",
+        "source": "/Users/lucainnocenti/.gradle/caches/transforms-1/files-1.1/aRBaseLib-debug.aar/5db565d8a7e2d8d2a3e97be3ef9161e7/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/drawable-mdpi_settings.png.flat",
+        "source": "/Users/lucainnocenti/.gradle/caches/transforms-1/files-1.1/aRBaseLib-debug.aar/5db565d8a7e2d8d2a3e97be3ef9161e7/res/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/src/main/res/layout/main.xml"
+    }
+]

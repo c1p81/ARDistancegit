@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/lucainnocenti/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleProj/aRSimple/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "479",
+                        "endColumns": "45",
+                        "endOffsets": "520"
+                    }
+                },
+                {
+                    "source": "/Users/lucainnocenti/.gradle/caches/transforms-1/files-1.1/aRBaseLib-debug.aar/5db565d8a7e2d8d2a3e97be3ef9161e7/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7,10,13,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "207,311,424,522,631,686,756,827,892",
+                        "endLines": "6,9,12,15,16,17,18,19,20",
+                        "endColumns": "19,19,19,19,54,69,70,64,73",
+                        "endOffsets": "306,419,517,626,681,751,822,887,961"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,11,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,272,370,525,580,650,721,786",
+                        "endLines": "4,7,10,13,15,16,17,18,19",
+                        "endColumns": "19,19,19,19,54,69,70,64,73",
+                        "endOffsets": "154,267,365,474,575,645,716,781,855"
+                    }
+                }
+            ]
+        }
+    ]
+}
